@@ -124,8 +124,10 @@ export default class MineBoard extends Component {
   render() {
     return(
       <div className="border-box">
-        <div><h3>Total Mines: {this.state.gridSize}</h3></div>
-        <div><h3>Remaining Spaces to Clear: {this.state.remainingSquares}</h3></div>
+        <div className="header-box">
+          <div className="header-info"><h3>Remaining Spaces to Clear: {this.state.remainingSquares}</h3></div>
+          <div className="header-info"><h3>Mines: {this.state.gridSize}</h3></div>
+        </div>
         <div className='minegrid'>
           {this.state.grid}
         </div>
