@@ -2,7 +2,7 @@
 
 > The classic puzzle game!
 
-![](placeholder)
+![boardgif.gif](minesweeper puzzle demo)
 
 v1.0 includes static setup with 10x10 board & 10 mines.
 
