@@ -1,6 +1,6 @@
 # Minesweeper v1.0
 
-> The classic puzzle game!
+> Avoid the mines!
 
 ![minesweeper demo](boardgif.gif)
 
