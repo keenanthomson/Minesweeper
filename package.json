@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "minesweeper",
   "main": "server.js",
+<<<<<<< HEAD
   "engines": {
     "node": "10.16.0"
   },
+=======
+  "engines": { "node": "10.16.0" },
+>>>>>>> 79e415011302450863fc3e47e8e053f2b66306b8
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server/server.js",
+    "start": "nodemon server/server.js",
     "build-dev": "npx webpack -d --watch"
   },
   "repository": {
