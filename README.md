@@ -1,8 +1,8 @@
 # Minesweeper v1.0
 
-> The classic puzzle game!
+> Avoid the mines 💣
 
-![](placeholder)
+![minesweeper demo](boardgif.gif)
 
 v1.0 includes static setup with 10x10 board & 10 mines.
 
