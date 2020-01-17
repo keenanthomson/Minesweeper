@@ -1,6 +1,6 @@
 # Minesweeper v1.0
 
-> Avoid the mines!
+> Avoid the mines 💣
 
 ![minesweeper demo](boardgif.gif)
 
