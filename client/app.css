@@ -50,7 +50,7 @@
 
 .border-box {
   border: 1px solid rgb(229,229,234);
-  border-radius:2px;
+  border-radius:6px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   padding: 10px;
 }
@@ -61,5 +61,5 @@
 }
 
 .header-info {
-  padding: 0 10px 10px 10px;
+  padding: 0 10px 10px 10px ;
 }
