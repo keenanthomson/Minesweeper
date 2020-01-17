@@ -2,6 +2,8 @@
 
 > Avoid the mines 💣
 
+> Play here https://minesweeperv1.glitch.me/
+
 ![minesweeper demo](boardgif.gif)
 
 v1.0 includes static setup with 10x10 board & 10 mines.
