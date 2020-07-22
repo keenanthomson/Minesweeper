@@ -1,6 +1,6 @@
 # Minesweeper v1.0
 
-> Avoid the Mines 💣 [Play Now](https://minesweeperv1.glitch.me/, "Minesweeper")
+> Avoid the Mines 💣 [Play Now](https://minesweeperv1.glitch.me/ "Minesweeper")
 
 ![minesweeper demo](boardgif.gif)
 
