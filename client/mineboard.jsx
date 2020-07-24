@@ -82,7 +82,7 @@ export default class MineBoard extends Component {
         alert('You Hit a Bomb :('); // change this to an transparent overlay over board but not over reset button / timer
         // add background bomb image for all mine locations
         this.state.mineLocations.forEach(elem => {
-          document.getElementById(elem).className = 'mine';
+          document.getElementById(elem).className = 'mine'; // shows bomb locations after game over
         });
         return setTimeout(() => this.resetBoard(), 5000); // change this to button and otherwise leave bombs on board
       } else {
